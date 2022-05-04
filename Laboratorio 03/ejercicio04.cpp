@@ -24,7 +24,7 @@ void primo(int n){
                 cont=cont+1;
             }
         }
-        if(cont<=1){
+        if(cont<1){
             cout<<i<<endl;
         }
     }
